@@ -14,7 +14,7 @@ The database is based on [Unibench](https://github.com/HY-UDBMS/UniBench); more 
 
 ## Loading the data
 
-Download the dump file of the database from [here](http://big.csr.unibo.it/downloads/m3d-dump) and use the ```pg_restore``` command to load it on AgensGraph.
+Download the dump file of the database from [here](http://big.csr.unibo.it/downloads/m3d.dmp) (6.8 GB compressed) and use the ```pg_restore``` command to load it on AgensGraph.
 
 ## Workload queries
 
