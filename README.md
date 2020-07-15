@@ -22,4 +22,10 @@ All queries are available in the ```workload``` folder.
 
 ## Authors
 
-Sandro Bimonte[^1], Enrico Gallinucci[^2], Patrick Marcel[^3], Stefano Rizzi[^2]
+Sandro Bimonte[1], Enrico Gallinucci[2], Patrick Marcel[3], Stefano Rizzi[2]
+
+[1]: INRAE - TSCF, University of Clermont Auvergne, Aubiere, France
+
+[2]: DISI, University of Bologna, Italy
+
+[3]: LIFAT Laboratory, University of Tours, France
